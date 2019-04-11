@@ -1,9 +1,5 @@
 It is time	
 To rhyme a rhyme	
-<<<<<<< HEAD
-No delay
-It's due today
-=======
-Coffee cup
-Time's almost up
->>>>>>> 9b48fb5ed31375c3f753fdae3549b05090907e04
+I try this
+And I try that
+I try with all my might
